@@ -1,3 +1,10 @@
-.div-verde{
-    
+.row-form {
+  justify-content: center;
+}
+.layout-background {
+  background: #fff;
+}
+.div-spin {
+  width: 200px;
+  height: 110px;
 }
